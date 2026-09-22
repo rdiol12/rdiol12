@@ -5,6 +5,8 @@
 **Native applications · self-hosted systems · data projects**
 
 [![GitHub](https://img.shields.io/badge/GitHub-rdiol12-181717?logo=github)](https://github.com/rdiol12)
+![Discord](https://img.shields.io/badge/Discord-ignation0723-5865F2?logo=discord&logoColor=white)
+[![X](https://img.shields.io/badge/X-%40rdiol12-000000?logo=x&logoColor=white)](https://x.com/rdiol12)
 [![C++](https://img.shields.io/badge/C++-native_apps-00599C?logo=cplusplus)](https://github.com/rdiol12?tab=repositories&q=&type=&language=c%2B%2B)
 [![Swift](https://img.shields.io/badge/Swift-iOS-F05138?logo=swift&logoColor=white)](https://github.com/rdiol12/PS5Library)
 [![Python](https://img.shields.io/badge/Python-data-3776AB?logo=python&logoColor=white)](https://github.com/rdiol12/diabetes-data-analysis)
@@ -34,4 +36,3 @@ A JavaScript smart-shopping-list application.
 ## Tools I use
 
 `C++` · `CMake` · `Swift` · `Python` · `Jupyter` · `JavaScript` · `Docker` · `GitHub Actions`
-
